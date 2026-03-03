@@ -1,16 +1,30 @@
-## Hi there 👋
+# Gio-sh⛩️
 
-<!--
-**Gio-sh/Gio-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Aspiring Cloud Engineer | Automating infrastructure & reading manga.*
 
-Here are some ideas to get you started:
+![Anime Lo-Fi Banner](https://c.tenor.com/0eJfC-IinkgAAAAC/tenor.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 📖 Current Arc
+
+Hi there! I'm on a journey to become a Cloud Engineer. To build a solid foundation, I'm currently focusing on scripting, system administration, and containerization. 
+
+I'm learning **Python** for automation, while spending my daily grind deep in the terminal working with **Linux**, **Docker**, and **Git**. My goal is to master these core tools before expanding into cloud providers like AWS or Azure.
+
+- ☁️ **Current Focus:** Building a strong DevOps and Cloud Engineering foundation
+- 🐍 **Coding:** Learning Python (automation, scripting, API basics)
+- ⚙️ **Infrastructure:** Mastering Linux systems, containerizing with Docker, and Git workflows
+
+
+---
+
+## ⚔️ Tech Stack
+
+### Languages
+`[Python]` • `[Bash/Shell]`
+
+### Infrastructure & Tools
+`[Linux]` • `[Docker]` • `[Git]` • `[GitHub]` 
+
